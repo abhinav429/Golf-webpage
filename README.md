@@ -1,2 +1,2 @@
-# Golf-webpage
+# Golfers Oasis
 The frontend of a golf website.
